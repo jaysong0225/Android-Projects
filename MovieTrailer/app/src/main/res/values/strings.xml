@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieTrailer</string>
+    <string name="title_activity_video_view">VideoViewActivity</string>
+    <string name="play">Play the movie</string>
+    <string name="delete">DELETE</string>
+    <string name="rate">RATE THIS MOVIE</string>
+    <string name="score_movie">Score the movie</string>
+    <string name="msg_saved">Your rate has been saved</string>
+    <string name="msg_deleted">Deleted</string>
+    <string name="msg_buffering">Buffering...</string>
+    <string name="player_stremming">Video Streaming</string>
+</resources>
