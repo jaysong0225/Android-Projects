@@ -1,0 +1,10 @@
+Android:Google's open-source mobile operating system
+Root:A method of unlocking the Android operating system
+Gradle:Custom build tool used to build android packages
+Linux:Android's kernel is based on this technology
+SQLite:It is a Database technology native to android
+XML:Android uses this technology to control the layout of the user interface
+Oreo:This is the name of the latest Android version
+JVM:Android uses this virtual machine with just-in-time compilation
+Google:The Android Open Source Project(AOSP) is led by this entity
+Google Play Store:This is an open source integrated digital content destination that lets developers distribute application

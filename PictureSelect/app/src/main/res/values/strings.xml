@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PictureSelect</string>
+    <string name="title_picture_detail">Picture Detail</string>
+    <string name="image1">Disney World</string>
+    <string name="image2">Night City View</string>
+    <string name="image3">Super Mario</string>
+    <string name="image4">Boat and Beach</string>
+    <string name="image5">Beautiful Banff</string>
+    <string name="image6">City Asphalt</string>
+    <string name="image7">Wall Art</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizBuilder</string>
+    <string name="userName">Name:</string>
+    <string name="quizStart">START</string>
+    <string name="nextQuestion">NEXT</string>
+    <string name="quizReset">Reset</string>
+</resources>
